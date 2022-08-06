@@ -1,1 +1,2 @@
 # IT488---GROUP-1
+Recall that you will be developing a software product that will be distributed to an end user market (review Unit 1’s introduction). You only have 6–7 weeks to develop your software product. So, consider this time frame as you define your product. An application that records the location of your parked car and then helps you find it would be a good example of a marketable, yet simple, application to develop in this time period. Also, look at other product examples in Course Documents.
