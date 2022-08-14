@@ -1,0 +1,27 @@
+This is the code for creating the table screens. The screen needs five fields.
+Type - drop down field w/out the ability to make new options
+-- coffee table
+-- end table
+-- bedside table
+-- dinning table
+-- bar topper
+
+Finish - drop down field w/out the ability to make new options
+-- stain
+-- lacquer
+-- varnish
+-- resign
+
+Design -- make it a comment box with 500 character limit
+
+
+Wood - drop down field w/out the ability to make new options
+-- pine
+-- oak
+-- cedar
+-- walnut
+
+Total thickness of completed top (may vary) - drop down field w/out the ability to make new options
+-- 1 inch
+-- 2 inch
+-- 3 inch
