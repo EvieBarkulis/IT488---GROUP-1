@@ -1,0 +1,56 @@
+This is the definition for the fields of the quilt screen.
+Type  - drop down list w/out the ability to create new items
+-- machine quilt top
+-- patchwork
+-- english paper pacing
+-- custom applicae
+-- American quilt top
+-- nine patch
+-- square
+-- log cabin
+-- block
+-- pinwheel
+
+Size - drop down list w/out the ability to create new items
+-- king
+-- Queen
+-- Twin
+-- infant
+-- child
+-- full
+-- tv blanket
+
+Fabric - drop down list w/out the ability to create new items
+-- Cotton
+-- Wool
+-- polyester
+-- linen
+-- denim
+-- cordorey
+-- spandex
+-- t-shirt
+-- felt
+-- microfiber
+
+Design - drop down list w/out the ability to create new items
+-- Animals
+-- Flowers
+-- video games
+-- disney
+-- star wars
+-- marvel
+-- dc
+-- minecraft
+
+Filler - drop down list w/out the ability to create new items
+-- polyester
+-- 100% cotton
+-- cotton/polybleend
+-- wool 
+
+Backing - drop down list w/out the ability to create new items
+-- fleece
+-- flannel
+-- microflannel
+-- wool
+-- 100 % cotton
