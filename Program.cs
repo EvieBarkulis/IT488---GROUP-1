@@ -4,14 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IT488_Group1_Project
+namespace IT488_customer_menu_screen
 {
     internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// evie
         [STAThread]
         static void Main()
         {
