@@ -1,0 +1,8 @@
+This is the definition of the fields for the customer screen:
+-- First Name - char limit 50 char
+-- Last Name - char limit 70 char
+-- address - char limit 50
+-- state - char limit 2 (set as a selection field with state abreviations)
+-- zip - number limit 5 
+-- email - char limit 255 w/validation of the @ symbol
+-- phone - number limit 10 w/format (xxx-xxx-xxxx)
