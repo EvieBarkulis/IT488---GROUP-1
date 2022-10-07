@@ -1,0 +1,16 @@
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\bin\Debug\IT488_Group1_Project.exe.config
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\bin\Debug\IT488_Group1_Project.exe
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\bin\Debug\IT488_Group1_Project.pdb
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.Properties.Resources.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.csproj.GenerateResource.cache
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.exe
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.pdb
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.Quilt_Order_Form.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.WelcomeScreen.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.Login.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.NewCustomer.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.Order_Menu.resources
+C:\Users\Veteran\source\repos\IT488_Group1_Project\IT488_Group1_Project\obj\Debug\IT488_Group1_Project.TableOrderForm.resources
